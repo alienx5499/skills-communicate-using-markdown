@@ -11,3 +11,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 int alienX = 5499;
 cout << alienX << endl;
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
